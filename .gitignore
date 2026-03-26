@@ -2,3 +2,5 @@
 *.mp4
 *.vtt
 dist/
+*/for_V/*
+for_V/for_V/*
